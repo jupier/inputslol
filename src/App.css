@@ -1,0 +1,24 @@
+.debug {
+  border: 1px solid black;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 100px;
+  overflow: scroll;
+  font-size: 10px;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+}
+
+textarea {
+  white-space: break-spaces;
+  line-height: 0.7;
+  font-size: 15px;
+  overflow: hidden;
+  resize: none;
+  color: black;
+}
